@@ -1,0 +1,8 @@
+int a=56;
+float b=23.789;
+string c1="hello universe",c2="hello multiverse";
+bool d=True;
+23+74;
+6/8;
+
+if(5==5)
